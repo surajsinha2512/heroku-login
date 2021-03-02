@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/heroku-login/static/css/main.67057cc5.chunk.css",
+    "main.js": "/heroku-login/static/js/main.82d022eb.chunk.js",
+    "main.js.map": "/heroku-login/static/js/main.82d022eb.chunk.js.map",
+    "runtime-main.js": "/heroku-login/static/js/runtime-main.f61fb542.js",
+    "runtime-main.js.map": "/heroku-login/static/js/runtime-main.f61fb542.js.map",
+    "static/css/2.150d169a.chunk.css": "/heroku-login/static/css/2.150d169a.chunk.css",
+    "static/js/2.ddf994a6.chunk.js": "/heroku-login/static/js/2.ddf994a6.chunk.js",
+    "static/js/2.ddf994a6.chunk.js.map": "/heroku-login/static/js/2.ddf994a6.chunk.js.map",
+    "static/js/3.af63c758.chunk.js": "/heroku-login/static/js/3.af63c758.chunk.js",
+    "static/js/3.af63c758.chunk.js.map": "/heroku-login/static/js/3.af63c758.chunk.js.map",
+    "index.html": "/heroku-login/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/heroku-login/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.67057cc5.chunk.css.map": "/heroku-login/static/css/main.67057cc5.chunk.css.map",
+    "static/js/2.ddf994a6.chunk.js.LICENSE.txt": "/heroku-login/static/js/2.ddf994a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f61fb542.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.ddf994a6.chunk.js",
+    "static/css/main.67057cc5.chunk.css",
+    "static/js/main.82d022eb.chunk.js"
+  ]
+}
